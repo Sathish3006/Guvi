@@ -1,8 +1,8 @@
 #include<stdio.h>
 int main(){
-  int n;
-  scanf("%d",&n);
-  if(n%2==0){
+  int n1;
+  scanf("%d",&n1);
+  if(n1%2==0){
     printf("Even");
   }
   else{
