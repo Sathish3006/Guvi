@@ -4,7 +4,7 @@ public class Char{
     Scanner sc  = new Scanner(System.in);
     String s = sc.next();
     int nn = sc.nextInt();
-    String sc = s.substring(s.length()-nn,s.length());
-    System.out.println(sc);
+    String sc1 = s.substring(s.length()-nn,s.length());
+    System.out.println(sc1);
   }
 }
